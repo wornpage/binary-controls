@@ -1,5 +1,8 @@
 # @wornpage/binary-controls
 
+> Part of **[Wornpage Components](https://github.com/wornpage/wornpage#component-library)**.
+> [Browse the catalog](https://wornpage.pages.dev) · [Setup guide](https://github.com/wornpage/wornpage/blob/main/docs/getting-started.md) · [Wornpage overview](https://github.com/wornpage/wornpage)
+
 Svelte 5 checkbox and switch controls with native input semantics, full-surface touch targets, compact label containment, and state boundaries that remain legible across Wornpage themes.
 
 <!-- wornpage-delivery:v2 browser-bundle -->
